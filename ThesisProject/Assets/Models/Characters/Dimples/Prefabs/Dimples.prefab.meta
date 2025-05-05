@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c721f74091f82b42a95ef840a0761f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19735
+  packageName: Dimples - Boxing Character model
+  packageVersion: Initial
+  assetPath: Assets/Models/Characters/Dimples/Prefabs/Dimples.prefab
+  uploadId: 8833
